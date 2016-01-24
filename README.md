@@ -21,4 +21,4 @@
 - Proguard has been intentionally disabled
 - Object Relational Mapping with ORMLite
 - Patched ORMLite to work with SQLCipher (thanks to [Igor K](https://github.com/sierpito/demo-ormlite-with-sqlcipher))
-- Set HOST variable in `/app/build.gradle` to your deployed [Notebook backend](https://github.com/MatthiasEckhart/NotebookSurveillanceStation)
+- Set `HOST` variable in `/app/build.gradle` to your deployed [Notebook backend](https://github.com/MatthiasEckhart/NotebookSurveillanceStation)
