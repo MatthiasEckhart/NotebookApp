@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notebook</string>
+    <string name="action_settings">Einstellungen</string>
+    <!-- activity_main -->
+    <string name="button_add">Neue Aufgabe</string>
+    <string name="main_add">Neu</string>
+    <!-- activity_add -->
+    <string name="title_activity_add">Neue Aufgabe</string>
+    <string name="activity_add_title">Titel</string>
+    <string name="activity_add_content">Inhalt</string>
+    <string name="activity_add_due_date">End Datum</string>
+    <string name="activity_add_subtasks">Aufgaben</string>
+    <string name="activity_add_location">Standort</string>
+    <string name="activity_add_input_empty_title">Bitte benenne deine Aufgabe.</string>
+    <string name="activity_add_input_empty_content">Bitte füge deiner Aufgabe eine Beschreibung hinzu.</string>
+    <string name="add_save">Speichern</string>
+    <string name="network">Netzwerk</string>
+    <string name="demotitle">Dein Titel</string>
+    <string name="democontent">Dein Inhalt</string>
+    <!-- activity_maps -->
+    <string name="title_activity_maps">Aufgaben Übersicht</string>
+    <!-- DoneActivity -->
+    <string name="done_activity_alert_dialog_delete_task_title">Aufgabe löschen</string>
+    <string name="done_activity_alert_dialog_delete_task_content">Willst du diese Aufgabe wirklich löschen?</string>
+    <!-- LocationTracker -->
+    <string name="location_tracker_alert_dialog_settings_title">GPS is nicht aktiviert</string>
+    <string name="location_tracker_alert_dialog_settings_content">Möchtest du zu den Einstellungen gelangen um dies zu
+        ändern?
+    </string>
+</resources>

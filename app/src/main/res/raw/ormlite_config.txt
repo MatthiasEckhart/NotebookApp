@@ -1,0 +1,32 @@
+#
+# generated on 2015/12/04 11:26:06
+#
+# --table-start--
+dataClass=at.fhj.moappdev.n073b00k.models.Note
+tableName=note
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=title
+# --field-end--
+# --field-start--
+fieldName=content
+# --field-end--
+# --field-start--
+fieldName=date
+# --field-end--
+# --field-start--
+fieldName=latitude
+# --field-end--
+# --field-start--
+fieldName=longitude
+# --field-end--
+# --field-start--
+fieldName=done
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
